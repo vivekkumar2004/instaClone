@@ -1,0 +1,17 @@
+Authentication
+  ==> Register
+  ==> Login
+  ==> Log out
+  ==> [OTP based Registration]
+
+==> Post
+  ==> create
+  ==> can see the feed
+  ==> like posts
+  ==> save post
+
+
+==> users
+   ==> followers
+   ==> following
+    
